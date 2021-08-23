@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanandansingh
+- 👋 Hi, I’m @JaySS
 - 👀 I’m interested in managing projects and collabarating with other team members
 - 🌱 I’m currently learning Github features
 - 💞️ I’m looking to collaborate on projects I'm associated with.
