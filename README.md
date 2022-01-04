@@ -2,7 +2,7 @@
 - 👀 I’m interested in managing projects and collabarating with other team members
 - 🌱 I’m currently learning Github features
 - 💞️ I’m looking to collaborate on projects I'm associated with.
-- 📫 How to reach me sanandan.singh@laitkor.com
+- 📫 How to reach me sanandan@gmail.com
 
 <!---
 sanandansingh/sanandansingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
